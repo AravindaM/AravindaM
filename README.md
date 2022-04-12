@@ -17,9 +17,8 @@
 ---
 
 <div align="center">
-  <div>Hey There :wave: </div>
-  <div>I'm Aravinda Madushanka, Software Developer currently working at <a href="https://www.8x8.com" alt="8x8">8x8</a> Singapore. </div>
-  <div>Originally from Sri Lanka.</div>
+  <div>Hey There :wave: I'm Aravinda Madushanka, Software Developer from Sri Lanka.</div>
+  <div>Currently working at <a href="https://www.8x8.com" alt="8x8">8x8</a> Singapore. </div>
 </div>
 
 ---
