@@ -17,11 +17,6 @@
 ---
 
 <div align="center">
-  <div>Hey There :wave: I'm Aravinda Madushanka, Software Developer from Sri Lanka.</div>
-  <div>Currently working at <a href="https://www.8x8.com" alt="8x8">8x8</a> Singapore. </div>
-</div>
-
-<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Vert.x_Logo.svg" title="Vert.x" alt="Vert.x" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
